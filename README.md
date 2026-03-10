@@ -78,7 +78,7 @@ endmodule
 ```
 
  Developed by: Hariharan Ganesh
- RegisterNumber: 25007139
+ RegisterNumber: 212225040111
  
 **Logic symbol & Truthtable**
 
